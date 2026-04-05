@@ -57,11 +57,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
 </p>
 
-<!-- DEV ANIMATION -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500"/>
-</div>
-
 <br>
 
 <!-- ANIMATED DIVIDER -->
@@ -78,13 +73,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/samashech/samashech/main/github-metrics.svg" />
 </p>
-
-<br>
-
-<!-- COOL ANIMATION BETWEEN SECTIONS -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" width="700"/>
-</div>
 
 <br>
 
