@@ -2,11 +2,13 @@
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="700"/> </div>
 🧠 Profile
 Name: Sameer Vishwakarma
+GitHub: samashech
 Role: Backend Developer (in progress)
 Education: B.Tech CSE
 Focus: APIs, Scalable Systems, AI Integration
 Learning: C++, Python, Data Structures, Backend Dev
 Goal: Internship + Real-world Projects
+<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </div>
 ⚙️ Tech Stack
 🧩 Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js" /> </p>
@@ -27,22 +29,8 @@ Goal: Internship + Real-world Projects
 🔹 OpenCV / AI Project
 🔹 System / CLI Tool
 🌐 Connect
-<p align="center"> <a href="mailto:samashech2606@gmail.com">Email</a> • <a href="https://github.com/samashech">GitHub</a> </p>
+<p align="center"> <a href="https://github.com/samashech">GitHub</a> </p>
 🧭 Philosophy
 
 Build → Break → Optimize → Repeat
 Focus on systems, not just syntax.
-<!--
-**samashech/samashech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
