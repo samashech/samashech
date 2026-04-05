@@ -20,12 +20,11 @@ Goal: Internship + Real-world Projects<br>
 📊 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/samashech/samashech/main/github-metrics.svg" /> </p>
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" width="700"/> </div>
-🚀 Projects
-🔹 Backend API (Auth + Database)
-🔹 OpenCV / AI Project
-🔹 System / CLI Tool
-🌐 Connect
-<p align="center"> <a href="https://github.com/samashech">GitHub</a> </p>
+🚀 Projects<br>
+🔹 Backend API (Auth + Database) : Automated n8n with Gemini API <br>
+🔹 OpenCV : Finger traced Virtual Keyboard<br>
+🔹 System / CLI Tool : YT debloater and universal subtitles<br>
+🌐 Connect :  <a href="https://github.com/samashech">GitHub</a> <br>
 🧭 Philosophy
 
 Build → Break → Optimize → Repeat
