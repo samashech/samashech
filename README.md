@@ -10,7 +10,7 @@
 
 <!-- HEADER ANIMATED GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500"/>
 </div>
 
 <!-- ANIMATED DIVIDER -->
