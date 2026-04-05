@@ -274,26 +274,7 @@ goals:
 <!-- PROFILE VIEWS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=samashech&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS&labelColor=0d1117" />
 
-<br><br>
 
-<!-- SPOTIFY / CODING MUSIC -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7ff&bar_color_cover=false" />
-
-</div>
-
-<br>
-
-<!-- ANIMATED MATRIX RAIN EFFECT -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-</div>
-
-<!-- CONTRIBUTION 3D -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samashech/samashech/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <img alt="3d-contrib" src="https://raw.githubusercontent.com/samashech/samashech/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-  </picture>
 </div>
 
 <br>
