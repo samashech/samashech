@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Sameer Vishwakarma</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;CSE+Student;AI+%2B+Systems+Enthusiast;Building+Real-World+Projects" /> </p>
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="700"/> </div>
 🧠 Profile
-Name: Sameer Vishwakarma
-GitHub: samashech
-Role: Backend Developer (in progress)
-Education: B.Tech CSE
-Focus: APIs, Scalable Systems, AI Integration
-Learning: C++, Python, Data Structures, Backend Dev
-Goal: Internship + Real-world Projects
+Name: Sameer Vishwakarma <br>
+GitHub: samashech<br>
+Role: Backend Developer (in progress)<br>
+Education: B.Tech CSE<br>
+Focus: APIs, Scalable Systems, AI Integration<br>
+Learning: C++, Python, Data Structures, Backend Dev<br>
+Goal: Internship + Real-world Projects<br>
 <div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </div>
 ⚙️ Tech Stack
 🧩 Languages
