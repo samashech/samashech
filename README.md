@@ -8,7 +8,7 @@ Education: B.Tech CSE<br>
 Focus: APIs, Scalable Systems, AI Integration<br>
 Learning: C++, Python, Data Structures, Backend Dev<br>
 Goal: Internship + Real-world Projects<br>
-<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </div>
+<!-- NEW CLEAN DEV GIF --> <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/> </div>
 ⚙️ Tech Stack
 🧩 Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js" /> </p>
@@ -18,14 +18,7 @@ Goal: Internship + Real-world Projects<br>
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" /> </p>
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500"/> </div>
 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samashech/samashech/main/github-metrics.svg" />
-</p>
-🔥 Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=samashech&theme=tokyonight&hide_border=true"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/samashech/samashech/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/samashech/samashech/main/github-metrics.svg" /> </p>
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" width="700"/> </div>
 🚀 Projects
 🔹 Backend API (Auth + Database)
