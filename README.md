@@ -17,8 +17,11 @@ Goal: Internship + Real-world Projects<br>
 🛠️ Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" /> </p>
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500"/> </div>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samashech&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samashech&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p>
+📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samashech/samashech/main/github-metrics.svg" />
+</p>
 🔥 Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=samashech&theme=tokyonight&hide_border=true"/> </p>
 🐍 Contribution Snake
