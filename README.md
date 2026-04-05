@@ -16,18 +16,18 @@ Goal: Internship + Real-world Projects
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" /> </p>
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500"/> </div>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samashech&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samashech&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p>
 🔥 Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=samashech&theme=tokyonight&hide_border=true"/> </p>
 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/samashech/samashech/output/github-contribution-grid-snake.svg"/> </p>
 <div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif" width="700"/> </div>
 🚀 Projects
 🔹 Backend API (Auth + Database)
 🔹 OpenCV / AI Project
 🔹 System / CLI Tool
 🌐 Connect
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a> • <a href="https://github.com/YOUR_USERNAME">GitHub</a> </p>
+<p align="center"> <a href="mailto:samashech2606@gmail.com">Email</a> • <a href="https://github.com/samashech">GitHub</a> </p>
 🧭 Philosophy
 
 Build → Break → Optimize → Repeat
