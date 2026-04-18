@@ -35,7 +35,7 @@
 
 <!-- ==================== TECH STACK ==================== -->
 
-## ⚙️ Tech Stack
+## ⚙️ Ask me About
 
 ### 🧩 Languages
 <p align="center">
