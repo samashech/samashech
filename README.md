@@ -37,7 +37,7 @@
 
 ## ⚙️ Ask me About
 
-### 🧩 Languages
+### 🧩 Languages I know
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
