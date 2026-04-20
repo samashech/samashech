@@ -63,7 +63,7 @@
 
 <!-- ==================== GITHUB METRICS ==================== -->
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samashech/samashech/main/github-metrics.svg" />
