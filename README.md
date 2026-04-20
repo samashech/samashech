@@ -35,9 +35,9 @@
 
 <!-- ==================== TECH STACK ==================== -->
 
-## ⚙️ Ask me About
+## ⚙️ Tech I know
 
-### 🧩 Languages I know
+### 🧩 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
