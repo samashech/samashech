@@ -1,4 +1,4 @@
-<!-- ANIMATED GRADIENT WAVE HEADER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:7b2ff7,50:00f7ff,75:7b2ff7,100:0d1117&height=250&section=header&text=Hey%20%F0%9F%91%8B%2C%20I'm%20Sameer%20Vishwakarma&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20Systems%20Builder&descSize=20&descAlignY=56&descAlign=50&animation=twinkling"/>
 
 
