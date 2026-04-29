@@ -35,7 +35,7 @@
 
 
 
-## ⚙️ Tech I know
+## ⚙️ Tech I know <br>
 
 ### 🧩 Languages
 <p align="center">
