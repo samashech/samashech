@@ -3,6 +3,9 @@ My goal is to grow as a developer and learn something new everyday and make sign
 
 # 🌟 My Star Projects
 
+### Edurep [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/EduRep)
+> I felt the need to make this because of the negligence of Indian govt towards the education, the youth of this so called "democracy" and the fully trustable national media of my country. This is the one stop place for all the education related news in India, the protest, the court seatings, and the Paper Leaks ofcourse.
+
 ### Align [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/Align)
 > It is a resume analysing tool which helps getting the best job for you based on your skills and cv. It is build using python, n8n and Apify scraper with ollama/gemini api 
 
