@@ -3,8 +3,8 @@ My goal is to grow while learning something new everyday and make some actual po
 
 #  My Star Projects
 
-### Portfolio Website [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/Sameer-Vishwakarma)
-> My personal portfolio website.
+### Portfolio [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/Sameer-Vishwakarma)
+> My personal portfolio website which has a built-in platformer game. My own ASCII art made with React
 
 ### Edurep [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/EduRep)
 > I felt the need to make this because of the negligence of Indian govt towards the education, the youth of this so called "democracy" and the fully trustable national media of my country. This is the one stop place for all the education related news in India, the protest, the court seatings, and the Paper Leaks ofcourse.
