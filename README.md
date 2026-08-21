@@ -1,4 +1,4 @@
-Hi, I'm Sameer from Ahmedabad, India who loves experimenting with building real life applications with python, C, and javascript and AI.
+Hi, I'm [Sameer](https://sameer-vishwakarma.me) from Ahmedabad, India who loves experimenting with building real life applications with python, C, and javascript and AI.
 My goal is to grow while learning something new everyday and make some actual positive changes in someone's life with my work. MY ULTIMATE
 
 #  My Star Projects
