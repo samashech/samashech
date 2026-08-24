@@ -34,7 +34,7 @@ I'm currently working on making useful Open-Source projects<br>I'm looking to co
 </picture>
 
 #  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=samashech&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=samashech&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=samashech&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
