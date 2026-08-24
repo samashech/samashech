@@ -36,7 +36,6 @@ I'm currently working on making useful Open-Source projects<br>I'm looking to co
 #  GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=samashech&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=samashech&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ##  Get in Contact:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samashech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameervishwakarma1056@gmail.com) 
