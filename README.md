@@ -16,7 +16,7 @@ My goal is to grow while learning something new everyday and make some actual po
 > It is a tool built for extreme procastinators which helps them getting on the track. It uses creative measures like AI tutor which can block your favorite apps and sites if you fail to finish your said tasks.
 
 ### PGR-PC [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/PGR-PC)
-> A game launcher which I intially built for myself which basically helps launching jack sparrowed games but with your steam client. It can track any game's progress and achievements just like steam even if you          never had that game in your steam account.
+> A game launcher which I intially built for myself which basically helps launching games but without your steam client. It can track any game's progress and achievements just like steam even if you          never had that game in your steam account.
 
 ### ClickyAI [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/clicky-AI)
 > An tool which turns your mouse cursor into an all-time google search. If you are on the web and want to know what something is, just press Alt+X and ask it without doing a google search. It can act as a tutorial for anything for eg.. you want to know how to edit a video, it can guide u through all the steps.. In conclusion, it basically tracks             your cursor position and gives you details on anything.
