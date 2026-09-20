@@ -6,6 +6,13 @@ My goal is to grow while learning something new everyday and make some actual po
 ### Portfolio [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/Sameer-Vishwakarma)
 > My personal portfolio website which has a built-in platformer game. My own ASCII art made with React
 
+### Sanket: ISL-translator [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ujjwal-tiwari3039/Sanket-ISL-translator)
+> My most ambitious project that I've ever worked on. Imagine being in a place where no one knows your language, well a normal person could google translate but what about someone with hearing impairment?? Even if someone is willing to help, they can't cause they don't know sign language, and especially in a country like India where this is not a problem to be even considered.
+> 
+> Here, is SANKET which is built primarily with INCLUDE dataset with across 260+ word classes, tensorflow, and mediapipe which scans your movements and signs to interprets english sentences in real-time.
+> 
+> *This is still in beta, and I'd love for people to contribute to it!*
+
 ### Edurep [![Repo](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samashech/EduRep)
 > I felt the need to make this because of the negligence of Indian govt towards the education, the youth of this so called "democracy" and the fully trustable national media of my country. This is the one stop place for all the education related news in India, the protest, the court seatings, and the Paper Leaks ofcourse.
 
