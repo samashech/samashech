@@ -33,7 +33,7 @@ I'm currently working on making useful Open-Source projects<br>I'm looking to co
   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/samashech/samashech/output/galaga-contribution-graph.svg">
 </picture>
 
-#  GitHub Stats:
+#  GitHub Stats:-
 
 ![](https://streak-stats.demolab.com/?user=samashech&theme=gruvbox&hide_border=true)<br/>
 
